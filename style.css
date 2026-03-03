@@ -14,3 +14,12 @@ p {
   background-color: #004643;
   border: 1.5px solid #e16162;
 }
+
+.one {
+  height:"25px";
+  width:"200px";
+}
+
+.two {
+  padding: 10px 15px;
+}
